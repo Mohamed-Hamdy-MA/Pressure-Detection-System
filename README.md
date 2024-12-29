@@ -1,5 +1,3 @@
-![UseCaseDiagram](https://github.com/user-attachments/assets/b96f75ae-e628-43ca-8616-803b4018adb2)# Pressure Detection System
-
 ## Introduction
 The Pressure Detection System is an embedded application designed to detect pressure levels and trigger an alarm if the pressure exceeds a predefined threshold. This project focuses on:
 - Building an embedded system process using the ARM `arm-none-eabi` toolchain directly through the terminal.
